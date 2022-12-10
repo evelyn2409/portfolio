@@ -1,0 +1,34 @@
+
+#div-coluna1{
+    width: 280px;
+    background-color: blueviolet;
+    height: 1000px;
+}
+    
+h1{
+    font-size: 48.83px;
+}
+<h3 class="texto-branco texto-centro"
+Olá,meu nome é evelyn e sou uma desenvolvedora junior bem vindo(a) meu site!
+
+}
+
+h3{
+    font-size: 16px;
+}
+
+.negrito{ 
+    font-weight: bold;
+}
+
+.texto-branco{
+    color:aliceblue;
+}
+
+.texto-centro{
+    text-align: center;
+}
+
+.minha-foto{
+    width: 200px;
+}
